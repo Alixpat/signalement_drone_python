@@ -31,7 +31,7 @@ from droneID import *
     MODIFIEZ LES INFORMATIONS ICI
 """
 SSID = "ILLEGAL_DRONE2"
-iface = 'wlp1s0mon'
+iface = 'wlp4s0mon'
 sender_mac = '2a:2a:2a:2a:2a:2a'
 
 """
